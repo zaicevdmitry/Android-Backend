@@ -1,0 +1,15 @@
+.menu{
+	width: 100%;
+	height: 50px;
+	border: 1px dashed;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.menu li {
+    display: inline;
+    padding: 10px;
+}
+.main_conteiner{
+	width: 1000px;
+	margin: 0 auto;
+}

@@ -1,6 +1,4 @@
-
-# phpstorm project files
+# IntelliJ project files
 .idea
 
-# windows thumbnail cache
-Thumbs.db
+.gitignore
